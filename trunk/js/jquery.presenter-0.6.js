@@ -1,3 +1,4 @@
+/* jquery-presenter plugin - Rahul Upakare (rahulu@gmail.com) */
 
 $.fn.presenter = function(options) {
 	var settings = {
