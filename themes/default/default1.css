@@ -29,7 +29,8 @@ body .header h1 {
 	/* border: 1px solid #ccc; */
 	margin: 0px;
 	padding: 12px 2px 0px 26px;
-	font-size: 40px;
+	font-size: 42px;
+	margin-left: 30px;
 	/***
 	background: blue;
 	height: 12%; 
@@ -42,11 +43,12 @@ body .header h1 {
 }
 
 .slide h3 {
-	margin-top: 65px;
+	margin-top: 100px;
 }
 
 .slide h1 {
 	padding: 80px 2px 0px 60px;
+	font-size: 45px;
 }
 
 .slide {
@@ -54,29 +56,40 @@ body .header h1 {
 	position: fixed;
 	top: 12%;
 	height: 90%; 
+	width: 100%; /** added **/
 }
 
 .slide ul li {
 	font-size: 30px;
 	color: #000;
+	margin-top: 8px;
+}
+
+.content > ul {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.content ul {
+	margin-bottom: 15px;
 }
 
 .footer {
 	/* border: 1px solid #ccc;*/
 	position: fixed;
 	top: 90%;
-	background: green;
+	background: #ccf;
 	height: 10%;
 	width: 100%;
 }
 
 .title {
 	position: absolute;
-	background: #CCC;
+	/** background: #CCC; **/
 	text-align: left;
 	width: 45%;
 	height: 100%;
-	padding: 25px 0px 2px 0px;
+	padding: 28px 0px 2px 4px;
 }
 
 .footer .pagenumber {
@@ -84,10 +97,10 @@ body .header h1 {
 	/* top: 0%; */
 	left: 45%;
 	width: 10%;
-	background: #CCC;
+	/** background: #CCC; **/
 	text-align: center;
 	height: 100%;
-	padding: 25px 0px 2px 0px;
+	padding: 28px 0px 2px 0px;
 }
 
 .footer .info {
@@ -96,7 +109,7 @@ body .header h1 {
 	width: 45%;
 	left: 55%;
 	height: 100%;
-	background: #CCC;
+	/** background: #CCC; **/
 	text-align: right;
-	padding: 25px 0px 2px 0px;
+	padding: 28px 0px 2px 0px;
 }
