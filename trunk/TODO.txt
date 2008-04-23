@@ -1,17 +1,22 @@
-TODOs
-=====
+TODO
+====
 
-- Add more TODOs and finalize and prioritize them
-- Create easy to use plain text mark-up for creating presentation (useful for non-programmers, novice users)
-- Add templating capability
-- Add index
+- Identifying more enhancements to the project. Add them to the todo list. Finalize and prioritize them.
+- Create easy to use plain text mark-up for creating presentations (useful for non-programmers, novice users)
+- Add templating capability(eloborate please)
+- Add index(eloborate please)
 - Multiple presentation in single page
   - Numeric key 1, 2, 3 to select a presentation for listening to key events (up/down arrow keys etc)
-- Write a documentation 
+- Write documentation 
 - Add Effects during tranistion from one slide to other
   - Should have ability for end users to write custom effects (looking it as a scope for community to contribute effects)
 - Animation on single slide
   - one by one bulleted item display for a single slide
-  - Animation for figures etc.
+  - Animation for figures etc
 - Export from standard file formats (openoffice, .ppt, etc)
 - Import to standard file formats (openoffice, .ppt, etc)
+- Auto playing the presentation
+  - time should be configurable
+- Recording the time taken on each and every slide while doing the presentation
+
+PS: (how about including the date field in this doc?)
