@@ -1,10 +1,16 @@
 TODO
 ====
 
+Last updated: 24 April 2008, 12:15AM
+
 - Identifying more enhancements to the project. Add them to the todo list. Finalize and prioritize them.
 - Create easy to use plain text mark-up for creating presentations (useful for non-programmers, novice users)
-- Add templating capability(eloborate please)
-- Add index(eloborate please)
+- Add UI templates 
+  - User should be able to select any of the available UI template 
+  - One option is to do this is just by setting path to appropriate templates CSS file
+- Add index
+  - list of titles to choose the slide to jump to
+- Bookmarking a single slide?
 - Multiple presentation in single page
   - Numeric key 1, 2, 3 to select a presentation for listening to key events (up/down arrow keys etc)
 - Write documentation 
@@ -13,10 +19,9 @@ TODO
 - Animation on single slide
   - one by one bulleted item display for a single slide
   - Animation for figures etc
-- Export from standard file formats (openoffice, .ppt, etc)
-- Import to standard file formats (openoffice, .ppt, etc)
+- Export from standard file formats (.odp, .ppt, etc)
+- Import to standard file formats (.odp, .ppt, etc)
 - Auto playing the presentation
   - time should be configurable
 - Recording the time taken on each and every slide while doing the presentation
-
-PS: (how about including the date field in this doc?)
+- Ajax based UI to create presentation
