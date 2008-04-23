@@ -1,0 +1,17 @@
+TODOs
+=====
+
+- Add more TODOs and finalize and prioritize them
+- Create easy to use plain text mark-up for creating presentation (useful for non-programmers, novice users)
+- Add templating capability
+- Add index
+- Multiple presentation in single page
+  - Numeric key 1, 2, 3 to select a presentation for listening to key events (up/down arrow keys etc)
+- Write a documentation 
+- Add Effects during tranistion from one slide to other
+  - Should have ability for end users to write custom effects (looking it as a scope for community to contribute effects)
+- Animation on single slide
+  - one by one bulleted item display for a single slide
+  - Animation for figures etc.
+- Export from standard file formats (openoffice, .ppt, etc)
+- Import to standard file formats (openoffice, .ppt, etc)
