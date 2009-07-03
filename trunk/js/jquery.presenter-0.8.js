@@ -39,12 +39,11 @@ $.fn.presenter = function(options) {
 
   $(document).keypress(function(e) {
     var pressedKey = e.charCode || e.which || e.keyCode || -1;
-    alert("key pressed " + pressedKey);
   
     var showslide;
     var hideslide = curslide; 
 
-    if(pressedKey == 37 || pressedKey == 38) { 
+    if(pressedKey == 37 || pressedKey == 38 || pressedKey == 104 || pressedKey == 107 ) { 
       curr_slide_num--;
     
       if(curr_slide_num < 0) {
@@ -59,7 +58,7 @@ $.fn.presenter = function(options) {
     }
 
     
-    if(pressedKey == 39 || pressedKey == 40) { 
+    if(pressedKey == 39 || pressedKey == 40 || pressedKey == 106 || pressedKey == 108) { 
       curr_slide_num++;
     
       if(curr_slide_num < total_slides) {
