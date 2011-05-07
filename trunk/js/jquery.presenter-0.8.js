@@ -1,6 +1,6 @@
 /* 
 jquery-presenter plugin 
-Copyright (c) 2008, Rahul Upakare (rahulu@gmail.com) 
+Copyright (c) 2011, Rahul Upakare (rahul@upakare.com) 
 All rights reserved.  
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED
